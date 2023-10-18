@@ -2,7 +2,7 @@
 /*
 	db := NewDb("127.0.0.1", 3306, "user", "pass", "dbname").Connect()
 */
-package dbo
+package go-mysql-dbo
 
 import (
 	"database/sql"
